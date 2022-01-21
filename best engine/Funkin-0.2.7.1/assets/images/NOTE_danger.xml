@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_danger.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="125" height="141"/>
+	<SubTexture name="blue hold end0000" x="125" y="0" width="50" height="64"/>
+	<SubTexture name="blue hold piece0000" x="175" y="0" width="50" height="44"/>
+	<SubTexture name="green0000" x="225" y="0" width="204" height="168"/>
+	<SubTexture name="green hold end0000" x="429" y="0" width="50" height="64"/>
+	<SubTexture name="green hold piece0000" x="0" y="168" width="50" height="44"/>
+	<SubTexture name="pruple end hold0000" x="50" y="168" width="50" height="64"/>
+	<SubTexture name="purple0000" x="100" y="168" width="136" height="139"/>
+	<SubTexture name="purple hold piece0000" x="236" y="168" width="50" height="44"/>
+	<SubTexture name="red0000" x="286" y="168" width="120" height="144"/>
+	<SubTexture name="red hold end0000" x="406" y="168" width="50" height="64"/>
+	<SubTexture name="red hold piece0000" x="456" y="168" width="50" height="44"/>
+</TextureAtlas>
